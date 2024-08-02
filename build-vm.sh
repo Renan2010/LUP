@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "==> Creating an VM for LSRC please wait"
-python3 -m venv LSRC-vm
+python3 -m venv LUP-vm
 echo "==> Instaling dependencies"
 source LSRC-vm/bin/activate
 pip3 install npyscreen
