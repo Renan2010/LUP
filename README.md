@@ -1,5 +1,5 @@
 # Note: This is an experimental project and not yet ready for use.
-## LSRC
+## LUP (Linux Universal Ports)
 The universal Ports for Linux BSD-like
 
 **How to execute this LUP**
