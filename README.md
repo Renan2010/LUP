@@ -7,5 +7,8 @@ Create a Python-VM
 ```bash
   $ ./build-vm.sh # Create an Python VM
 ```
-
+***Execute "Start.sh"**
+```bash
+ $ ./Start.sh # or $ sh Start.sh
+```
 
