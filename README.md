@@ -2,8 +2,9 @@
 ## LUP (Linux Universal Ports)
 The universal Ports for Linux BSD-like
 
-**How to execute this LUP**
-Create a Python-VM
+## How to execute this LUP
+
+**Create a Python-VM**
 ```bash
   $ ./build-vm.sh # Create an Python VM
 ```
