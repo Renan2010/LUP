@@ -9,12 +9,9 @@ The universal Ports for Linux BSD-like
   $ chmod 755 *.sh # All *.sh files
 ```
 
-**Create a Python-VM**
+**Search packages in LUP-ports**
 ```bash
-  $ ./build-vm.sh # or $ sh build-vm.sh
+  $ ./search.sh # or $ sh search.sh
 ```
-**Execute "Start.sh"**
-```bash
-  $ ./Start.sh # or $ sh Start.sh
-```
+**Install packages coming soon**
 
