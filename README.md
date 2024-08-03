@@ -4,6 +4,11 @@ The universal Ports for Linux BSD-like
 
 ## How to execute this LUP
 
+**First place the executable .sh files**
+```bash
+  $ chmod 755 *.sh # All *.sh files
+```
+
 **Create a Python-VM**
 ```bash
   $ ./build-vm.sh # Create an Python VM
