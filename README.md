@@ -15,6 +15,6 @@ The universal Ports for Linux BSD-like
 ```
 **Execute "Start.sh"**
 ```bash
- $ ./Start.sh # or $ sh Start.sh
+  $ ./Start.sh # or $ sh Start.sh
 ```
 
