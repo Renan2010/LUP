@@ -2,7 +2,7 @@
 ## LUP-Current (Linux Universal Ports)
 The universal Ports for Linux BSD-like
 
-## How to execute this LUP
+## How to use this LUP
 
 **First place the executable .sh files**
 ```bash
