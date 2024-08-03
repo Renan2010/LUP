@@ -11,7 +11,7 @@ The universal Ports for Linux BSD-like
 
 **Create a Python-VM**
 ```bash
-  $ ./build-vm.sh # Create an Python VM
+  $ ./build-vm.sh # or $ sh build-vm.sh
 ```
 **Execute "Start.sh"**
 ```bash
