@@ -1,20 +1,20 @@
-# Note: This is an experimental project and not yet ready for use.
-## LUP-Stable (Linux Universal Ports)
+# Note: This is an pre-alfa project and not yet ready for use.
+## LUP-Current (Linux Universal Ports)
 The universal Ports for Linux BSD-like
 
-## How to execute this LUP
+## How to use this LUP
 
 **First place the executable .sh files**
 ```bash
-  $ chmod 755 *.sh # All *.sh files
+$ chmod 755 *.sh # All *.sh files
 ```
 
-**Create a Python-VM**
+**Experimental Search packages in LUP-ports**
 ```bash
-  $ ./build-vm.sh # or $ sh build-vm.sh
+$ ./search.sh # or $ sh search.sh
 ```
-**Execute "Start.sh"**
+**Install packages in LUP-ports**
 ```bash
- $ ./Start.sh # or $ sh Start.sh
+$ ./install.sh <category/package> # or sh install.sh <category/package>
 ```
 
