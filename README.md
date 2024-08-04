@@ -6,15 +6,15 @@ The universal Ports for Linux BSD-like
 
 **First place the executable .sh files**
 ```bash
-  $ chmod 755 *.sh # All *.sh files
+$ chmod 755 *.sh # All *.sh files
 ```
 
 **Search packages in LUP-ports**
 ```bash
-  $ ./search.sh # or $ sh search.sh
+$ ./search.sh # or $ sh search.sh
 ```
 **Install packages in LUP-ports**
 ```bash
-  $ ./install.sh <category/package> # or sh install.sh <category/package>
+$ ./install.sh <category/package> # or sh install.sh <category/package>
 ```
 
