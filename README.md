@@ -1,4 +1,4 @@
-# Note: This is an pre-alfa project and not yet ready for use.
+# Note: This is an Pre-alfa project and not yet ready for use.
 ## LUP-Stable (Linux Universal Ports)
 The universal Ports for Linux BSD-like
 
