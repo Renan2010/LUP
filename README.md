@@ -1,4 +1,4 @@
-# Note: This is an experimental project and not yet ready for use.
+# Note: This is an ALFA project and not yet ready for use.
 ## LUP-Current (Linux Universal Ports)
 The universal Ports for Linux BSD-like
 
@@ -9,7 +9,7 @@ The universal Ports for Linux BSD-like
 $ chmod 755 *.sh # All *.sh files
 ```
 
-**Search packages in LUP-ports**
+**ALFA Search packages in LUP-ports**
 ```bash
 $ ./search.sh # or $ sh search.sh
 ```
