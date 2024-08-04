@@ -13,5 +13,8 @@ The universal Ports for Linux BSD-like
 ```bash
   $ ./search.sh # or $ sh search.sh
 ```
-**Install packages coming soon**
+**Install packages in LUP-ports**
+```bash
+  $ ./install.sh <category/package> # or sh install.sh <category/package>
+```
 
