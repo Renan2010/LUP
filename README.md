@@ -9,7 +9,7 @@ The universal Ports for Linux BSD-like
 $ chmod 755 *.sh # All *.sh files
 ```
 
-**EXPERIMENTAL Search packages in LUP-ports**
+**!!!EXPERIMENTAL IS NOT READY!!! Search packages in LUP-ports**
 ```bash
 $ ./search.sh # or $ sh search.sh
 ```
