@@ -16,6 +16,6 @@ $ ./search.sh # or $ sh search.sh
 ```
 **Install packages in LUP-ports**
 ```bash
-$ ./install.sh <category/package> # or sh install.sh <category/package>
+$ ./install.sh <Category/package> # or sh install.sh <category/package>
 ```
 
