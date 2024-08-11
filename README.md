@@ -18,4 +18,4 @@ $ ./search.sh # or $ sh search.sh
 ```bash
 $ ./install.sh <Category/package> # or sh install.sh <category/package>
 ```
-
+Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
