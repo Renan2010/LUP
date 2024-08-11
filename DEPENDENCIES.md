@@ -1,4 +1,5 @@
 # Dependencies to run this LUP project
+## Note: These commands are run as root. So be careful
 **To run this project you need some packages on your Linux distro**
 Arch Linux
 ```bash
