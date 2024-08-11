@@ -3,7 +3,7 @@
 **The universal Ports for Linux BSD-like**
 ## How to use this LUP
 
-**Note: To run the program correctly go to the dependencies file [here](DEPENDENCIES.md)**
+**Note: To run the program correctly go to the dependencies file [here](docs/DEPENDENCIES.md)**
 
 **First place the executable .sh files**
 ```bash
