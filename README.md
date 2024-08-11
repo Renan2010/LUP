@@ -1,6 +1,6 @@
 # Note: This is an Pre-alfa project and not yet ready for use.
 ## LUP-Current (Linux® Universal Ports)
-**The universal Ports for Linux BSD-like**
+**The universal Ports for Linux® BSD-like**
 ## How to use this LUP
 
 **Note: To run the program correctly go to the dependencies file [here](docs/DEPENDENCIES.md)**
