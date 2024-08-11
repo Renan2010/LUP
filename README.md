@@ -1,5 +1,5 @@
 # Note: This is an Pre-alfa project and not yet ready for use.
-## LUP-Current (Linux Universal Ports)
+## LUP-Current (Linux® Universal Ports)
 **The universal Ports for Linux BSD-like**
 ## How to use this LUP
 
