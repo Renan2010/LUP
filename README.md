@@ -1,4 +1,6 @@
-## Note: This is an Pre-alfa project and not yet ready for use.
+> [!Note]
+This is an EXPERIMENTAL project and not yet ready for use
+
 # LUP 
 **The universal Ports for Linux® BSD-like**
 ## How to use this LUP
