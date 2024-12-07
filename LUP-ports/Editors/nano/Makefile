@@ -1,7 +1,7 @@
 PORTNAME=nano-amd64
-NAMEFILE=nano-8.1
-FILE=nano-8.1.tar.xz
-SRC=https://www.nano-editor.org/dist/v8/nano-8.1.tar.xz
+NAMEFILE=nano-8.2
+FILE=nano-8.2.tar.xz
+SRC=https://www.nano-editor.org/dist/v8/nano-8.2.tar.xz
 
 all:
 	wget $(SRC)
